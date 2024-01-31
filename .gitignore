@@ -1,5 +1,7 @@
+.gitignore
 module1/ny_taxi_postgres_data
 module1/docker/ny_taxi_postgres_data
 module1/data_pgadmin
 *.ipynb_checkpoints
 *key*
+*.terraform
