@@ -5,3 +5,5 @@ module1/data_pgadmin/
 *.ipynb_checkpoints/
 *keys/
 *.terraform/
+.terraform*
+terraform.tfstate*
