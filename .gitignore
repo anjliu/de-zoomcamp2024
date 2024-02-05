@@ -7,3 +7,4 @@ module1/data_pgadmin/
 *.terraform/
 .terraform*
 terraform.tfstate*
+gcp_key.json
