@@ -1,4 +1,4 @@
-# Module2
+# Module3
 In Module3, we compared different ways of storing data in GCP BigQuery.
 
 Topics include:
