@@ -8,3 +8,4 @@ module1/data_pgadmin/
 .terraform*
 terraform.tfstate*
 gcp_key.json
+temp
